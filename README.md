@@ -1,7 +1,5 @@
 ### Olá! Eu sou o João Vitor 👋🏽
 
-🏠 São paulo (Brasil), 23 anos; 
-
 |👩‍💻 Sou estudante de front-end;
 
 🎓 Atualmente estou cursando análise e desenvolvimento de sistemas;
