@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Vitor 👋🏽
 
-|👩‍💻 Sou estudante de front-end;
+👩‍💻 Sou estudante de front-end;
 
 🎓 Atualmente estou cursando análise e desenvolvimento de sistemas;
 
