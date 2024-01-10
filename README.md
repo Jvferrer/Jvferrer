@@ -4,8 +4,6 @@
 
 🎓 Estou no 4º semestre, cursando análise e desenvolvimento de sistemas;
 
-![Jvferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvferrer&theme=merko)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvferrer)](https://github.com/Jvferrer/github-readme-stats)
 
 ### Sobre:
