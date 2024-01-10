@@ -4,8 +4,6 @@
 
 🎓 Estou no 4º semestre, cursando análise e desenvolvimento de sistemas;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvferrer)](https://github.com/Jvferrer/github-readme-stats)
-
 ### Sobre:
 Apaixonado por tecnologia, acredito que a colaboração e o trabalho em equipe são fundamentais para o crescimento profissional e a realização de objetivos. Sinta-se a vontade para entrar em contato comigo.
 
