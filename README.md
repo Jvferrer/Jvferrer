@@ -1,8 +1,8 @@
 ### Olá! Eu sou o João Vitor 👋🏽
 
-👩‍💻 Sou estudante de front-end;
+👩‍💻 Atualmente estou estudando sobre Oracle - PL/SQL (Banco de Dados);
 
-🎓 Atualmente estou cursando análise e desenvolvimento de sistemas;
+🎓 Estou no 4º semestre, cursando análise e desenvolvimento de sistemas;
 
 ![Jvferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvferrer&theme=merko)
 
