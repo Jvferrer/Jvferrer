@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Vitor 👋🏽
 
-👩‍💻 Atualmente estou estudando sobre Oracle - PL/SQL (Banco de Dados);
+👩‍💻 Em busca de novos desafios na área de QA, onde posso aplicar minhas habilidades técnicas, além de continuar aprendendo e contribuindo para o sucesso de equipes dinâmicas e inovadoras.;
 
 🎓 Estou no 4º semestre, cursando análise e desenvolvimento de sistemas;
 
