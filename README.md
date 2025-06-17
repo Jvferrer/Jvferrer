@@ -1,15 +1,24 @@
 ### Olá! Eu sou o João Vitor 👋🏽
 
-👩‍💻 Em busca de novos desafios na área de QA, onde posso aplicar minhas habilidades técnicas, além de continuar aprendendo e contribuindo para o sucesso de equipes dinâmicas e inovadoras.;
+👨‍💻 Atuo na área de **Quality Assurance (QA)**, aplicando testes manuais e automatizados em APIs REST e sistemas web.
 
-🎓 Estou no 4º semestre, cursando análise e desenvolvimento de sistemas;
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
 
-### Sobre:
-Apaixonado por tecnologia, acredito que a colaboração e o trabalho em equipe são fundamentais para o crescimento profissional e a realização de objetivos. Sinta-se a vontade para entrar em contato comigo.
+---
 
-### Redes sociais: 
+### 💡 Sobre
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferrer-do-nascimento-10bb68226/) [![Linkedin](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/)](htpps://https://www.tiktok.com/@devjvferrer)
+Sou apaixonado por tecnologia e acredito que a **colaboração** e o **trabalho em equipe** são fundamentais para o crescimento profissional e a realização de objetivos.  
+Estou sempre em busca de aprender novas ferramentas e práticas que aumentem a qualidade do produto e a eficiência dos testes.
+
+📬 Sinta-se à vontade para entrar em contato comigo!
+
+---
+
+### 🌐 Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferrer-do-nascimento-10bb68226/)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devjvferrer)
 
 
 
