@@ -1,0 +1,92 @@
+# Galaxy Profile README — João Vitor Ferrer
+# Generator: https://github.com/vinimlo/galaxy-profile
+
+username: Jvferrer
+
+profile:
+  name: "João Vitor Ferrer"
+  tagline: "QA Engineer | Automation | ISTQB CTFL 4.0"
+  company: "Feng Brasil"
+  location: "Santo André, SP · Brasil"
+  bio: |
+    Formado em Análise e Desenvolvimento de Sistemas (Estácio), com pós-graduação em Testes de Software (Unyleya, em andamento) e certificação ISTQB® Foundation Level 4.0 (26-CTFL-15087-BR). Com +5 anos de experiência em QA, atuo com testes manuais e automatizados em Web, APIs e Mobile.
+    Hoje sou Analista de Testes na Feng Brasil (Nação Flamengo, Nação Prêmios, SPFC e Botafogo). Antes: Arquiteto de Testes na Spread (Vivo — Sinfonia CX), AchieveMore e Biz.
+  philosophy: '"Qualidade não é um ato, é um hábito." — Aristóteles'
+
+social:
+  email: "joao.21ferrer@gmail.com"
+  linkedin: "joão-vitor-ferrer-do-nascimento-10bb68226"
+  website: "https://jvferrer.github.io/Portifolio_JoaoVitor/"
+
+galaxy_arms:
+  - name: "QA Automation"
+    color: "dendrite_violet"
+    items:
+      - "Playwright"
+      - "Cypress"
+      - "Selenium"
+      - "Robot Framework"
+      - "Postman"
+      - "TypeScript"
+      - "JavaScript"
+      - "Python"
+  - name: "API & Performance"
+    color: "synapse_cyan"
+    items:
+      - "REST APIs"
+      - "Swagger"
+      - "k6"
+      - "JMeter"
+      - "PostgreSQL"
+      - "MySQL"
+      - "Oracle"
+      - "SQL"
+  - name: "CI/CD & QA Ops"
+    color: "axon_amber"
+    items:
+      - "GitHub Actions"
+      - "Azure DevOps"
+      - "Jira"
+      - "BDD"
+      - "Shift Left"
+      - "Scrum"
+      - "Kanban"
+      - "Git"
+
+projects:
+  - repo: "Jvferrer/Portifolio_JoaoVitor"
+    arm: 0
+    description: "Portfólio QA com React, Playwright e deploy em GitHub Pages."
+  - repo: "Jvferrer/automacao-amazon-robot"
+    arm: 0
+    description: "Automação UI com Robot Framework, Page Object e BDD."
+  - repo: "Jvferrer/ct-ai-simulado"
+    arm: 1
+    description: "Prática de testes e cenários com apoio de IA."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
