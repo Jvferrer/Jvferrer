@@ -5,31 +5,31 @@ username: Jvferrer
 
 profile:
   name: "João Vitor Ferrer"
-  tagline: "QA Engineer | Automation | ISTQB CTFL 4.0"
+  tagline: "Analista de QA | Automação de Testes (Web e API) | Cypress · k6 | ISTQB CTFL"
   company: "Feng Brasil"
   location: "Santo André, SP · Brasil"
   bio: |
-    Formado em Análise e Desenvolvimento de Sistemas (Estácio), com pós-graduação em Testes de Software (Unyleya, em andamento) e certificação ISTQB® Foundation Level 4.0 (26-CTFL-15087-BR). Com +5 anos de experiência em QA, atuo com testes manuais e automatizados em Web, APIs e Mobile.
-    Hoje sou Analista de Testes na Feng Brasil (Nação Flamengo, Nação Prêmios, SPFC e Botafogo). Antes: Arquiteto de Testes na Spread (Vivo — Sinfonia CX), AchieveMore e Biz.
+    Sou Analista de Testes/QA, com cerca de 6 anos de atuação, foco em qualidade contínua e automação em Web, API e Mobile. Experiência em Cypress, Robot Framework e Selenium; performance com k6 e JMeter; Playwright como conhecimento. ISTQB® CTFL (26-CTFL-15087-BR).
+    Hoje sou Analista de Testes na Feng Brasil (Nação Flamengo, SPFC, Botafogo e demais produtos). Antes: Arquiteto de Testes na Spread (Vivo — Sinfonia CX), AchieveMore e Biz.
   philosophy: '"Qualidade não é um ato, é um hábito." — Aristóteles'
 
 social:
   email: "joao.21ferrer@gmail.com"
-  linkedin: "joão-vitor-ferrer-do-nascimento-10bb68226"
+  linkedin: "joao-vitor-ferrer-do-nascimento"
   website: "https://jvferrer.github.io/Portifolio_JoaoVitor/"
 
 galaxy_arms:
   - name: "QA Automation"
     color: "dendrite_violet"
     items:
-      - "Playwright"
       - "Cypress"
       - "Selenium"
       - "Robot Framework"
       - "Postman"
-      - "TypeScript"
       - "JavaScript"
       - "Python"
+      - "Playwright"
+      - "TypeScript"
   - name: "API & Performance"
     color: "synapse_cyan"
     items:
@@ -56,7 +56,7 @@ galaxy_arms:
 projects:
   - repo: "Jvferrer/Portifolio_JoaoVitor"
     arm: 0
-    description: "Portfólio QA com React, Playwright e deploy em GitHub Pages."
+    description: "Portfólio QA alinhado ao LinkedIn, com site ao vivo no GitHub Pages."
   - repo: "Jvferrer/automacao-amazon-robot"
     arm: 0
     description: "Automação UI com Robot Framework, Page Object e BDD."
