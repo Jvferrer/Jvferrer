@@ -33,16 +33,12 @@ Analista de QA com cerca de **6 anos** em testes automatizados, API e qualidade 
 - Performance (k6, JMeter)
 - IA generativa aplicada ao ciclo de QA
 
-## Technologies and Tools
+## Linguagens, ferramentas e práticas
 
-- Automation: Cypress, Robot Framework, Selenium; Playwright (conhecimento)
-- Languages: JavaScript, Python
-- API testing: REST, Postman, Swagger
-- Database: PostgreSQL, MySQL, Oracle, SQL, triggers, jobs
-- Performance: k6, JMeter
-- Versionamento: Git, GitLab
-- Management: Jira, Kanban, Scrum, Azure DevOps, Octane
-- Practices: BDD, TDD, Shift Left
+- Linguagens: JavaScript, Python
+- Automação e performance: Cypress, k6, Robot Framework, Selenium, JMeter; Playwright (conhecimento)
+- API e dados: REST, Postman, Swagger, SQL, PostgreSQL, MySQL, Oracle, triggers e jobs
+- Práticas e gestão: Git, GitLab, Jira, Kanban, Scrum, Azure DevOps, Octane, BDD, TDD, Shift Left
 
 ## Connect with Me
 
