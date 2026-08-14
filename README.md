@@ -22,29 +22,27 @@
 
 ## Bio
 
-Formado em Análise e Desenvolvimento de Sistemas pela Estácio, com pós-graduação em Testes de Software na Unyleya (em andamento) e certificação **ISTQB® Foundation Level 4.0** (`26-CTFL-15087-BR`). Com **+5 anos** de experiência em QA, atuo com testes manuais e automatizados em aplicações **Web, APIs e Mobile**.
-
-Hoje sou Analista de Testes na **Feng Brasil**, com qualidade em produtos de e-commerce e sócio-torcedor (Nação Flamengo, Nação Prêmios, SPFC e Botafogo). Antes: Arquiteto de Testes na Spread (Vivo — Sinfonia CX), AchieveMore e Biz.
+Analista de QA com cerca de **6 anos** em testes automatizados, API e qualidade contínua. Atuo com automação Web em **JavaScript (Cypress)** e testes de carga com **k6**, **Robot Framework (Python)** em meios de pagamento e validação de dados com **SQL**. Certificação **ISTQB® CTFL** (`26-CTFL-15087-BR`) e pós-graduação em Testes de Software na Unyleya (em andamento). Conhecimento em **Playwright**.
 
 ## Specializations
 
-- QA Engineering e práticas de automação
-- Testes exploratórios e funcionais
-- Automação Web, Mobile e API
-- Testes de performance
-- Shift Left, BDD e qualidade em CI/CD
-- Evidências claras para decisão de release
+- Automação de testes Web e API
+- Cypress, k6 e Robot Framework
+- Testes de API, SQL, triggers e jobs
+- Shift Left, BDD e Scrum/Kanban
+- Performance (k6, JMeter)
+- IA generativa aplicada ao ciclo de QA
 
 ## Technologies and Tools
 
-- Automation: Playwright, Cypress, Selenium, Robot Framework, Postman, Swagger
-- CI/CD: GitHub Actions, Azure DevOps
-- Languages: TypeScript, JavaScript, Python
+- Automation: Cypress, Robot Framework, Selenium; Playwright (conhecimento)
+- Languages: JavaScript, Python
 - API testing: REST, Postman, Swagger
-- Database: PostgreSQL, MySQL, Oracle, SQL
+- Database: PostgreSQL, MySQL, Oracle, SQL, triggers, jobs
 - Performance: k6, JMeter
-- Management: Jira, Kanban, Scrum
-- Patterns: Page Object Model, BDD
+- Versionamento: Git, GitLab
+- Management: Jira, Kanban, Scrum, Azure DevOps, Octane
+- Practices: BDD, TDD, Shift Left
 
 ## Connect with Me
 
