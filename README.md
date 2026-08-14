@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="João Vitor Ferrer — Portfólio QA"/>
 </div>
 
 <br/>
