@@ -150,8 +150,8 @@
     <circle cx="152.5" cy="85" r="5" fill="#a78bfa" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
     <circle cx="152.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Portifolio_JoaoVitor</text>
-    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Portfólio QA com React,</text>
-    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Playwright e deploy em GitHub</text>
+    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Portfólio QA alinhado ao</text>
+    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">LinkedIn, com site ao vivo no</text>
     <rect x="99.0" y="163" width="107" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
     <text x="152.5" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">QA Automation</text>
   </g>
